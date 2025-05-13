@@ -18,14 +18,6 @@ c,cpp,js,arduino,docker,git,github,raspberrypi,matlab,linux,latex,ros,bash
 - [Electric Car ATMEGA32](https://github.com/MehrzadGolabi/Digital2-Lab-Final-Project--Electric-Car-ATMEGA32): Final project for Digital Systems 2 Lab, simulating an electric car based on ATMEGA32 in Proteus8. ⭐️ 0 stars | Language: Assembly | Forks: 0 | Issues: 0
 - [Elevator Project](https://github.com/MehrzadGolabi/Elevator_Project): Elevator project for Industrial Control. ⭐️ 0 stars | Language: C++ | Forks: 0 | Issues: 0
 
-## Recent Activity
-
-- **May 2, 2025**: Updated README.md in [Self Balancing Robot](https://github.com/MehrzadGolabi/selfbalancingrobot)  
-- **May 1, 2025**: Added HW2 and HW3 in [FPGA Projects](https://github.com/MehrzadGolabi/FPGA_Projects)  
-- **April 27, 2025**: Started watching [ElegantOTA](https://github.com/ayushsharma82/ElegantOTA)  
-- **March 28, 2025**: Pushed updates to [Turtlebot Teleop Joystick](https://github.com/MehrzadGolabi/turtlebot_teleop_joystick)  
-- **March 22, 2025**: Created [Turtlebot Teleop Joystick](https://github.com/MehrzadGolabi/turtlebot_teleop_joystick)
-
 ## Connect with Me
 
 mehrzadgolabi@gmail.com
