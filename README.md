@@ -8,7 +8,7 @@ I am a dedicated student pursuing my degree in Electrical Engineering. My journe
 
 ## Skills & Technologies
 
-c,cpp,js,arduino,docker,git,github,raspberrypi,matlab,linux,latex,ros,bash
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,arduino,docker,git,github,raspberrypi,matlab,linux,latex,ros,bash&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
