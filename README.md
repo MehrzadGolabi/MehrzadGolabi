@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**MehrzadGolabi/MehrzadGolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mehrzad Golabi**, an aspiring Electrical Engineer currently studying at Shahid Beheshti University. I have a passion for creating innovative projects that bridge the gap between hardware and software. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated student pursuing my degree in Electrical Engineering. My journey in technology has led me to explore various areas, including robotics, FPGA programming, and embedded systems. I enjoy collaborating on projects that challenge my skills and expand my knowledge.
+
+## Skills & Technologies
+
+c,cpp,js,arduino,docker,git,github,raspberrypi,matlab,linux,latex,ros,bash
+
+## Top Projects
+
+- [Self Balancing Robot](https://github.com/MehrzadGolabi/selfbalancingrobot): A Self Balancing Robot made for Digital Systems 2 project. ⭐️ 0 stars | Language: C++ | Forks: 0 | Issues: 0
+- [FPGA Projects](https://github.com/MehrzadGolabi/FPGA_Projects): FPGA projects and homework assignments from Spring 2025. ⭐️ 0 stars | Language: C | Forks: 0 | Issues: 0
+- [Turtlebot Teleop Joystick](https://github.com/MehrzadGolabi/turtlebot_teleop_joystick): Simple HTML joystick for TurtleBot3, compatible with Gazebo. ⭐️ 0 stars | Language: HTML | Forks: 0 | Issues: 0
+- [Electric Car ATMEGA32](https://github.com/MehrzadGolabi/Digital2-Lab-Final-Project--Electric-Car-ATMEGA32): Final project for Digital Systems 2 Lab, simulating an electric car based on ATMEGA32 in Proteus8. ⭐️ 0 stars | Language: Assembly | Forks: 0 | Issues: 0
+- [Elevator Project](https://github.com/MehrzadGolabi/Elevator_Project): Elevator project for Industrial Control. ⭐️ 0 stars | Language: C++ | Forks: 0 | Issues: 0
+
+## Recent Activity
+
+- **May 2, 2025**: Updated README.md in [Self Balancing Robot](https://github.com/MehrzadGolabi/selfbalancingrobot)  
+- **May 1, 2025**: Added HW2 and HW3 in [FPGA Projects](https://github.com/MehrzadGolabi/FPGA_Projects)  
+- **April 27, 2025**: Started watching [ElegantOTA](https://github.com/ayushsharma82/ElegantOTA)  
+- **March 28, 2025**: Pushed updates to [Turtlebot Teleop Joystick](https://github.com/MehrzadGolabi/turtlebot_teleop_joystick)  
+- **March 22, 2025**: Created [Turtlebot Teleop Joystick](https://github.com/MehrzadGolabi/turtlebot_teleop_joystick)
+
+## Connect with Me
+
+mehrzadgolabi@gmail.com
