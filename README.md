@@ -1,15 +1,13 @@
-## Hi there! 👋
+## Mehrzad Golabi
 
-I'm **Mehrzad Golabi**, an aspiring Electrical Engineer currently studying at Shahid Beheshti University. I have a passion for creating innovative projects that bridge the gap between hardware and software. Welcome to my GitHub profile!
+Electrical engineer (BSc in Control Engineering, Shahid Beheshti University) working on mobile robotics and embedded systems.
 
-## About Me
-
-I am a dedicated student pursuing my degree in Electrical Engineering. My journey in technology has led me to explore various areas, including robotics, FPGA programming, and embedded systems. I enjoy collaborating on projects that challenge my skills and expand my knowledge.
+I build ROS 2 robots from simulation to hardware: robot modeling and Gazebo simulation, SLAM and navigation, and control on microcontrollers and FPGAs.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,git,github,raspberrypi,matlab,linux,latex,ros,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,cpp,c,py,matlab,opencv,linux,docker,git,bash,raspberrypi,arduino&perline=12)](https://skillicons.dev)
 
-## Connect with Me
+## Contact
 
-mehrzadgolabi@gmail.com
+[mehrzadgolabi@gmail.com](mailto:mehrzadgolabi@gmail.com) · [LinkedIn](https://linkedin.com/in/mehrzadgolabi)
